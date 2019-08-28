@@ -1,50 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b20f8367-6486-4530-a17d-d5a1936132b9" name="Default Changelist" comment="爬取网易云音乐">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/歌曲下载.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloudMusic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/musics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/song/蜜蜂.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/Rollin' On.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/人啊.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/你给我听好.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/倾城.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/勇悍·17 .mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/半路.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/南方蝶道.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/原谅.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/叮叮叮叮叮.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/国境之南.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/坏天气.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/天天.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/失眠 (Remix).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/孤单心事.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/寂寞，好了.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/就喜欢你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/希望.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/心动.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/怎么唱情歌.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/思刻.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/情歌.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/我会不会又睡到下午了.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/找不到.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/日久生情.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/月球.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/生命有一种绝对.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/神秘.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/等等等等.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/紧紧.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/超喜欢你.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/那就这样吧.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songs/陪你等天亮.mp3" afterDir="false" />
-    </list>
+    <list default="true" id="b20f8367-6486-4530-a17d-d5a1936132b9" name="Default Changelist" comment="爬取网易云音乐" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/musics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="543">
+              <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -81,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cloudMusic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="12030">
               <caret line="401" column="17" selection-start-line="401" selection-start-column="17" selection-end-line="401" selection-end-column="17" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#i#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -326,7 +283,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -437,17 +394,18 @@
       <workItem from="1566985565124" duration="3683000" />
       <workItem from="1566995031757" duration="5299000" />
       <workItem from="1567000494067" duration="184000" />
+      <workItem from="1567000724884" duration="740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9166000" />
+    <option name="totallyTimeSpent" value="9906000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09914712" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10021322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -478,9 +436,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="爬取网易云音乐" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/cloudMusic.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="12030">
           <caret line="401" column="17" selection-start-line="401" selection-start-column="17" selection-end-line="401" selection-end-column="17" />
           <folding>
             <element signature="n#style#0;n#span#0;n#i#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -691,17 +656,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/music.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/musics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="543">
+          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
