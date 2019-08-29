@@ -31,12 +31,12 @@ def get_page_info(page=1):
             station_info=once.find("div",attrs={"class","r_lbx_cena"}).div.text.strip()
             # print(station_info)
             result=re.search("距(.*)线(.*?)站(\d{1,4})米",station_info).groups()
-            print(result)
-            line = result[0]+"线"
+            # print(result)
+            line = (result[0]+"线").replace(",","、")
             station = result[1]+"站".strip()
             meters = result[2]+"米".strip()
-            page_info.append({"title":title,"house_url":house_url,"house_square":house_square,"house_floor":house_floor,"line":line,"station":station,"meters":meters,"img_url":img_url,"headers":headers})
-            # print(page_info)
+            page_info.append({"title":title,"house_url":house_url,"house_square":house_square,"house_floor":house_floor,
+                              "line":line,"station":station,"meters":meters,"img_url":img_url,"headers":headers})
         except AttributeError as e:
             print(e)
             print(page_info)
@@ -54,10 +54,10 @@ def save_info_to_file(infos):
 def save_img_to_file(imgs):
     for img in imgs:
         flag_https = img['img_url'].find("https")
-        if(flag_https !=-1):
+        if (flag_https != -1):
             try:
-                img_r=requests.get(img['img_url'],headers=img['headers'],stream=True)
-                with open("./images/%s.jpg"%(img['title'][0:3]),"wb") as file:
+                img_r = requests.get(img['img_url'], headers=img['headers'], stream=True)
+                with open("./images/%s.jpg" % (img['title'][0:3]), "wb") as file:
                     for i in img_r.iter_content(10240):
                         file.write(i)
                 print(f"{img['title']}图片下载成功")
@@ -65,8 +65,10 @@ def save_img_to_file(imgs):
                 print(e)
 for page in range(1,13):
     infos= get_page_info(page)
+
     save_info_to_file(infos)
     save_img_to_file(infos)
     print(f"第{page}页信息加载成功,本页保存了{len(infos)}条信息")
 
 # get_page_info()
+

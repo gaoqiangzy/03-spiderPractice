@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942267ef-688d-4d39-82d3-7adf9ddb7103" name="Default Changelist" comment="" />
+    <list default="true" id="942267ef-688d-4d39-82d3-7adf9ddb7103" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../歌曲下载/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../歌曲下载/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../歌曲下载/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../歌曲下载/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/万寿路.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/万源街.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/三元桥.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/上地 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/东四十.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/东直门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/东风北.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/丰台南.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/丰台站.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/临河里.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/丽泽商.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/义和庄.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/九棵树.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/九龙山.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/五棵松.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/五道口.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/亦庄桥.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/人民大.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/传媒大.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/健德门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/光熙门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/八宝山.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/八角游.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/八里桥.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/六里桥.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/军事博.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/刘家窑.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/劲松 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/北京南.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/北京西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/北工大.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/北苑 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/北运河.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/十里堡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/十里河.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/双井 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/双桥 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/古城 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/同济南.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/和平西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/和平里.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/四惠 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/国贸 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/土桥 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/大屯路.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/大望路.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/大红门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/大郊亭.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/太阳宫.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/宋家庄.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/将台 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/常营 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/平乐园.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/广安门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/广渠门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/广阳城.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/建国门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/张郭庄.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/惠新西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/成寿寺.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/新宫 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/方庄 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/旧宫 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/景泰 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/望京 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/望京南.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/望京西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/朝阳门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/杨庄 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/果园 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/梨园 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/次渠南.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/永丰 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/永丰南.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/永定门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/永泰庄.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/海户屯.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/潘家园.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/火器营.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/牡丹园.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/物资学.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/玉泉路.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/百子湾.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/积水潭.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/立水桥.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/管庄 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/育新 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/芍药居.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/草房 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/草桥 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/荣京东.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/蒲黄榆.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/褡裢坡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/西红门.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/角门西.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/达官营.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/通州北.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/金台夕.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/金台路.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/陶然亭.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/青年路.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/首经贸.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/马家堡.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/魏公村.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/黄渠 .jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/鼓楼大.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/蛋壳公寓房源.csv" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,6 +122,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/$1.coverage" NAME="1 Coverage Results" MODIFIED="1567083789866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$index.coverage" NAME="index Coverage Results" MODIFIED="1567083934135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_$index.coverage" NAME="index Coverage Results" MODIFIED="1566801848454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -16,8 +131,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+            <state relative-caret-position="172">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="e#3634#3671#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,9 +149,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/1.py" />
         <option value="$PROJECT_DIR$/index.py" />
       </list>
     </option>
@@ -44,6 +166,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -53,8 +176,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="作业-蛋壳公寓房源信息" type="b2602c69:ProjectViewProjectNode" />
-              <item name="作业-蛋壳公寓房源信息" type="462c0819:PsiDirectoryNode" />
+              <item name="蛋壳公寓房源信息" type="b2602c69:ProjectViewProjectNode" />
+              <item name="蛋壳公寓房源信息" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -81,7 +204,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.index">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="作业-蛋壳公寓房源信息" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="作业-蛋壳公寓房源信息" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,6 +252,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -128,22 +274,23 @@
       <workItem from="1566995007997" duration="21000" />
       <workItem from="1566995410206" duration="3137000" />
       <workItem from="1567000715619" duration="7000" />
+      <workItem from="1567082313359" duration="1695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20306000" />
+    <option name="totallyTimeSpent" value="22001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08955224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25276753" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.19088937" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -165,10 +312,20 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+        <state relative-caret-position="172">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#3634#3671#0" />
+          </folding>
         </state>
       </provider>
     </entry>
